@@ -6,7 +6,7 @@ This repository serves as a prototype for demonstrating the fundamental concept 
 
 ## Client-Server Architecture
 
-In this messaging prototype, we utilize the Client-Server Architecture to achieve the following objectives:
+In this messaging prototype, utilized the Client-Server Architecture to achieve the following objectives:
 
 - **Scalability:** The architecture allows for easy scalability. Multiple clients can connect to a central server, enabling communication between users on different devices and locations.
 
