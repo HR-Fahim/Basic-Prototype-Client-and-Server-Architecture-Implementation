@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Asus\Desktop\Git-VS Code\GitHub\Basic-Prototype-Client-and-Server-Interaction\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2335470964.index
+2337261459.index
